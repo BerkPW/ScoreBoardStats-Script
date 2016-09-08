@@ -9,7 +9,7 @@ include 'ayar.php';
 		<?php 
 			if ($tema == beyaz or $tema == Beyaz) {
 				echo "<link rel='stylesheet' href='css/1.css'>"; 
-			}else if ($tema == siyah or $tema == Seyaz) {
+			}else if ($tema == siyah or $tema == Siyah) {
 				echo "<link rel='stylesheet' href='css/2.css'>"; 
 			}else{
 				echo "<link rel='stylesheet' href='css/1.css'>"; 
